@@ -3,7 +3,7 @@ I am a Lead Solutions Engineer, working @[VMware](https://www.vmware.com)
 
 From a personal perspective, I have a huge interest in Home Assistant 
 
-**Message me on twitter :** [![Follow heinoskov](https://img.shields.io/twitter/follow/CCostan)](https://www.twitter.com/heinoskov)
+**Message me on twitter :** [![Follow heinoskov](https://img.shields.io/twitter/follow/heinoskov)](https://www.twitter.com/heinoskov)
 
 
 Most code you find here, is created for demos, so use accordingly. 
