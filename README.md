@@ -1,5 +1,5 @@
 # About
-I am a Lead Solutions Engineer, working @[VMware](https://www.vmware.com)
+I am a Lead Solutions Engineer, working @[VMware](https://www.vmware.com) out of Copenhagen, Denmark
 
 From a personal perspective, I have a huge interest in [Home Assistant](https://www.home-assistant.io) and using that as my Smart Home Hub - automating everything. 
 
