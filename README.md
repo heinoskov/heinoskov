@@ -1,7 +1,7 @@
 # About
 I am a Lead Solutions Engineer, working @[VMware](https://www.vmware.com)
 
-From a personal perspective, I have a huge interest in Home Assistant 
+From a personal perspective, I have a huge interest in Home Assistant with https://img.shields.io/github/checks-status/:heinoskov/:HA_Backup/:ref
 
 **Message me on twitter :** [![Follow heinoskov](https://img.shields.io/twitter/follow/heinoskov)](https://www.twitter.com/heinoskov)
 
