@@ -1,7 +1,7 @@
 # About
 I am a Lead Solutions Engineer, working @[VMware](https://www.vmware.com)
 
-From a personal perspective, I have a huge interest in Home Assistant (https://www.home-assistant.io and https://github.com/home-assistant) and using that as my Smart Home Hub - automating everything. 
+From a personal perspective, I have a huge interest in [Home Assistant](https://www.home-assistant.io) and using that as my Smart Home Hub - automating everything. 
 
 **Message me on twitter :** [![Follow heinoskov](https://img.shields.io/twitter/follow/heinoskov)](https://www.twitter.com/heinoskov)
 
